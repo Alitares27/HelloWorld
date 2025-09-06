@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header, footer {
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+    background-color: #008b8b;
+    padding: 1rem;
+}
+
+#title {
+    text-align: center;
+    font-size: 3em;
+    font-weight: bold;
+    color: white;
+}
+
+#hello{
+    text-align: center;
+    font-size: 3em;
+    font-weight: bold;
+    padding: 2rem 2rem;
+}
+
+p {
+    font-size: 2rem;
+    color: white;
+}
